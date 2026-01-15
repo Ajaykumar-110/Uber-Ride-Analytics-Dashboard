@@ -1,4 +1,4 @@
-Uber Ride Analytics Dashboard
+# Uber Ride Analytics Dashboard
 
 # Project Overview
 
@@ -50,8 +50,6 @@ Incomplete rides are mainly caused by customer demand and vehicle breakdowns
 Specific pickup and drop locations contribute more to ride failures
 
 Revenue distribution varies significantly across vehicle categories
-<img width="902" height="498" alt="Home page" src="https://github.com/user-attachments/assets/36aa9119-346d-44fb-b3f2-4eece5389aa0" />
-<img width="882" height="502" alt="Overview page" src="https://github.com/user-attachments/assets/ad55afc2-4aba-4564-b9cc-e9fe115f251f" />
 
 # Learnings & Skills Gained
 
@@ -62,3 +60,6 @@ Designing KPI-driven dashboards
 Applying data storytelling principles
 
 Translating business questions into visuals
+
+<img width="902" height="498" alt="Home page" src="https://github.com/user-attachments/assets/36aa9119-346d-44fb-b3f2-4eece5389aa0" />
+<img width="882" height="502" alt="Overview page" src="https://github.com/user-attachments/assets/ad55afc2-4aba-4564-b9cc-e9fe115f251f" />
