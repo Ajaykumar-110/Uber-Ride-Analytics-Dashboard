@@ -1,11 +1,11 @@
 Uber Ride Analytics Dashboard
 
-Project Overview
+# Project Overview
 
 This project focuses on analyzing Uber ride booking data using Power BI to uncover insights related to booking performance, revenue trends, vehicle usage, and incomplete rides.
 The dashboard is designed to support data-driven decision-making for business and operations teams.
 
-Business Objectives
+# Business Objectives
 
 Analyze total bookings and revenue
 
@@ -17,7 +17,7 @@ Examine pickup and drop locations with high failure rates
 
 Improve operational efficiency using insights
 
-Tools & Technologies
+# Tools & Technologies
 
 Power BI
 
@@ -29,7 +29,7 @@ Data Cleaning & Transformation
 
 Data Visualization
 
-Key Metrics
+# Key Metrics
 
 Total Bookings
 
@@ -41,7 +41,7 @@ Ride Distance
 
 Vehicle-wise Performance
 
-Key Insights
+# Key Insights
 
 Certain vehicle types generate higher booking volume
 
@@ -53,7 +53,7 @@ Revenue distribution varies significantly across vehicle categories
 <img width="902" height="498" alt="Home page" src="https://github.com/user-attachments/assets/36aa9119-346d-44fb-b3f2-4eece5389aa0" />
 <img width="882" height="502" alt="Overview page" src="https://github.com/user-attachments/assets/ad55afc2-4aba-4564-b9cc-e9fe115f251f" />
 
-Learnings & Skills Gained
+# Learnings & Skills Gained
 
 Writing optimized DAX measures
 
